@@ -1,0 +1,4 @@
+name: DeathChestPlugin
+version: '${project.version}'
+main: mask.lab.deathchestplugin.DeathChestPlugin
+api-version: 1.18
